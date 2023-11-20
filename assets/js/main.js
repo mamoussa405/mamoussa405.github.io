@@ -257,16 +257,17 @@
   let projects = [
     {
       "img" : "assets/img/Projects/bhira.jpg",
-      "name" : "Lbhira",
-      "description" : "While serving as the CTO of a startup specializing in the sale of fruits and vegetables, I also took on the responsibility of developing the backend system for a mobile application. This encompassed responsibilities such as user authentication, CRUD operations, real-time stock updates, and stories. The technology stack used included TypeScript, NestJS, TypeORM, and DigitalOcean as a hosting provider.",
+      "name" : "Green land Maroc",
+      "description" : "As a backend engineer at Green land Maroc, i: Designed and implemented a backend system for a mobile app for online grocery shopping resulting in a 30% increase in customer acquisition.\
+                      Integrated 3rd party APIs. Deployed REST APIs in DigitalOcean using Platform as a service (Paas) and Managed Databases. Collaborated closely with the frontend developers to ensure seamless linking between the Frontend and the Backend.",
       "tags" : ["TypeScript", "NodeJS", "NestJS", "Postgresql", "TypeORM", "DigitalOcean"],
       "sources" : "https://github.com/mamoussa405/Bhira_app_v1",
       "live" : "",
     },
     {
       "img" : "assets/img/Projects/webserver.png",
-      "name" : "Webserv",
-      "description" : "This project's aim is to build an HTTP server from scratch using C/C++, where concepts like sockets, TCP, Parsing the HTTP Request, and creating a Response are introduced.",
+      "name" : "Mini NGINX",
+      "description" : "This project's aim is to build an HTTP server from scratch using C++, where concepts like sockets, TCP, Parsing the HTTP Request, and creating a Response are introduced.",
       "tags" : ["C", "C++", "Sockets", "HTTP", "TCP", "CGI", "webserver"],
       "sources" : "https://github.com/mamoussa405/webserv",
       "live" : "",
