@@ -257,8 +257,8 @@
   let projects = [
     {
       "img" : "assets/img/Projects/bhira.jpg",
-      "name" : "Green land Maroc",
-      "description" : "As a backend engineer at Green land Maroc, i: Designed and implemented a backend system for a mobile app for online grocery shopping resulting in a 30% increase in customer acquisition.\
+      "name" : "LBHIRA",
+      "description" : "As a backend engineer at LBHIRA, i: Designed and implemented a backend system for a mobile app for online grocery shopping resulting in a 30% increase in customer acquisition.\
                       Integrated 3rd party APIs. Deployed REST APIs in DigitalOcean using Platform as a service (Paas) and Managed Databases. Collaborated closely with the frontend developers to ensure seamless linking between the Frontend and the Backend.",
       "tags" : ["TypeScript", "NodeJS", "NestJS", "Postgresql", "TypeORM", "DigitalOcean"],
       "sources" : "https://github.com/mamoussa405/Bhira_app_v1",
